@@ -77,7 +77,7 @@ After thoroughly analyzing the data, we come to the conclusion that absenteeism 
 ##### Transportation Expense
 ##### Distance from Residence to Work
 So the changes company should bring to reduce the absenteeism time is that they can provide transportation to the employees with longer distances at reduced prices.
-Whereas when we forecast the loss to occur, if the same trend of absenteeism continues, then the overall loss of utilization will be approx. 34% time wasted in absenteeism.
+Whereas when we forecast the loss to occur, if the same trend of absenteeism continues, then the overall loss of utilization will be approx. 47% time wasted in absenteeism.
 
 Project Organization
 ------------
