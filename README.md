@@ -63,10 +63,11 @@ To further help our analysis, we create a new feature named as Total Utilization
 
 ## Models used:
 ##### Logestic Regression: Used backward elimination to find the best model
-##### KNN Regression: K was chosen as 11 after analyzing the test error and select k for which test error is the least.
+##### KNN Regression: K was chosen as 7 after analyzing the test error and select k for which test error is the least.
+##### KNN Classification: K was chosen as 5 after analyzing the test error and select k for which test error is the least.
 
 ## Model Evaluation:
-##### R2 Values for Test Set for all models
+##### Accuracy Scores for Test Set for all models
 ###### Logistic Model: 0.771 ( For Test Data)
 ###### KNN Regression Model: 0.187
 ###### KNN Classification Model: 0.722
